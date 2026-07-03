@@ -5,11 +5,11 @@ import os
 
 # BotFather'dan olgan tokeningiz.
 # Xohlasangiz to'g'ridan-to'g'ri shu yerga yozing, yoki muhit o'zgaruvchisi orqali bering.
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "BU_YERGA_TOKEN_YOZING")
+BOT_TOKEN = os.environ.get("8885989965:AAFD4Y1khFsfl_Zz2QCAfUVOcSNi5fAzRUE")
 
 # Sizning (admin) Telegram chat ID raqamingiz.
 # Buni bilish uchun @userinfobot ga /start yozing, u sizga ID beradi.
-ADMIN_CHAT_ID = int(os.environ.get("ADMIN_CHAT_ID", "0"))
+ADMIN_CHAT_ID = int(os.environ.get("7164104117", "0"))
 
 # Operatorlar ro'yxatga qo'shilish uchun kiritadigan maxfiy kod.
 # Operator botga /start yozganda shu kodni so'raymiz - shunchaki tasodifiy odam
